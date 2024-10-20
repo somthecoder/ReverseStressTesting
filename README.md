@@ -22,13 +22,15 @@ git pull origin main
 
 **4. Stage changes and commit**
 
+**5. Push changes to central repo**
+
 git add .
 
 git commit -m "Describe the changes made"
 
 git pull origin main
 
-**5. Push changes to central repo**
+
 
 git push origin main
 
